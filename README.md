@@ -1,11 +1,11 @@
 # TBD
-# 📱 Junior Ranger App (iOS)
+# Junior Ranger App (iOS)
 
 A mobile application designed to support the Queensland Indigenous Land and Sea Ranger Program (QILSR), helping engage young participants (“Junior Rangers”) through interactive missions, photo-based learning, and nature exploration.
 
 ---
 
-## 🌿 Overview
+## Overview
 
 The Junior Ranger App aims to create an engaging and educational experience for young users by encouraging them to interact with nature through guided missions.
 
@@ -20,27 +20,27 @@ This project is developed as part of an industry collaboration with the Queensla
 
 ---
 
-## 🎯 Features (MVP)
+## Features (MVP)
 
-- 📷 Camera integration for capturing images  
-- 🖼️ Photo fallback using image picker  
-- ✅ Mission completion flow (capture → confirm → complete)  
-- 📱 SwiftUI-based user interface  
-- 🔄 Basic navigation between screens  
-- 🔊 Simple educational content with text-to-speech support  
-
----
-
-## 🧠 Future Enhancements
-
-- 🌐 Integration with iNaturalist API for species recognition  
-- 🔊 Text-to-speech feature to read species information aloud
-- 📚 Expanded educational content (encyclopedia-style species info)  
-- 👥 User progress tracking  
+-  Camera integration for capturing images  
+-  Photo fallback using image picker  
+-  Mission completion flow (capture → confirm → complete)  
+-  SwiftUI-based user interface  
+-  Basic navigation between screens  
+-  Simple educational content with text-to-speech support  
 
 ---
 
-## 🛠️ Tech Stack
+##  Future Enhancements
+
+-  Integration with iNaturalist API for species recognition  
+-  Text-to-speech feature to read species information aloud
+-  Expanded educational content (encyclopedia-style species info)  
+-  User progress tracking  
+
+---
+
+##  Tech Stack
 
 - Language: Swift  
 - Framework: SwiftUI  
@@ -49,7 +49,7 @@ This project is developed as part of an industry collaboration with the Queensla
 
 ---
 
-## 📸 Demo Flow
+##  Demo Flow
 
 1. Launch app  
 2. Navigate to mission screen  
@@ -62,7 +62,7 @@ This project is developed as part of an industry collaboration with the Queensla
 
 ---
 
-## 👩‍💻 Contribution
+##  Contribution
 Kris
 MVP
 - UI implementation using SwiftUI  
@@ -73,7 +73,7 @@ MVP
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Requirements
 - macOS  
